@@ -1,0 +1,26 @@
+{
+  "name": "atomic-css-utils",
+  "version": "1.0.0",
+  "homepage": "https://github.com/atomic-css/utils",
+  "authors": [
+    "Lukáš Mladý"
+  ],
+  "description": "Atomic CSS utilities",
+  "dependencies": {
+    "atomic-css-utils-dimension": "~1.0.0",
+    "atomic-css-utils-display": "~1.0.0",
+    "atomic-css-utils-image": "~1.0.0",
+    "atomic-css-utils-layout": "~1.0.0",
+    "atomic-css-utils-link": "~1.0.0",
+    "atomic-css-utils-offset": "~1.0.0",
+    "atomic-css-utils-position": "~1.0.0",
+    "atomic-css-utils-state": "~1.0.0",
+    "atomic-css-utils-text": "~1.0.0"
+  },
+  "license": "MIT",
+  "ignore": [
+    ".*",
+    "CHANGELOG.md",
+    "component.json"
+  ]
+}
